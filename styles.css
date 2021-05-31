@@ -1,0 +1,17 @@
+body {
+    align-items: center;
+}
+#title {
+    color: red;
+    font-size: larger;
+    font-weight: 800;
+}
+
+.box {
+    align-items: center;
+    border: 20px solid black;
+    padding: 20px;
+    margin: 10px;
+    width:fit-content;
+    float: left;
+}
